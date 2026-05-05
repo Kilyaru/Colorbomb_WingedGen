@@ -125,6 +125,82 @@
             "one": "ginger",
             "many": "dark ginger"
         },
+    	"LEAFGREEN": {
+	        "one": "gray",
+	        "many": "dark gray"
+        },
+	    "COTTONCANDY": {
+	        "one": "white",
+	        "many": "white"
+    	},
+        "TWILIGHT": {
+            "one": "gray",
+            "many": "gray"
+        },
+        "DUSK": {
+            "one": "gray",
+            "many": "dark gray"
+        },
+        "VIOLET": {
+            "one": "gray",
+            "many": "dark gray"
+        },
+        "CARDINAL": {
+            "one": "ginger",
+            "many": "light ginger"
+        },
+        "BLUEJAY": {
+            "one": "gray",
+            "many": "dark gray"
+        },
+        "DAWN": {
+            "one": "ginger",
+            "many": "light ginger"
+        },
+        "TURQUOISE": {
+            "one": "white",
+            "many": "white"
+        },
+        "SEAFOAM": {
+            "one": "white",
+            "many": "white"
+        },
+        "TOXIC": {
+            "one": "gray",
+            "many": "gray"
+        },
+        "FIREBORN": {
+            "one": "ginger",
+            "many": "ginger"
+        },
+        "SHORELINE": {
+            "one": "gray",
+            "many": "pale gray"
+        },
+        "BLOODRED": {
+            "one": "brown",
+            "many": "dark brown"
+        },
+        "WREN": {
+            "one": "brown",
+            "many": "light brown"
+        },
+        "RAVE": {
+            "one": "gray",
+            "many": "gray"
+        },
+        "PEACHES": {
+            "one": "ginger",
+            "many": "pale ginger"
+        },
+        "TOFFEE": {
+            "one": "ginger",
+            "many": "dark ginger"
+        },
+        "SNOWDRIFT": {
+            "one": "pale",
+            "many": "pale"
+        },
         "singlecolour": "single color",
         "singlecolour_long": "%{color}",
         "twocolour": "two color",
