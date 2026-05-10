@@ -124,7 +124,7 @@
         "GHOSTRED": {
             "one": "ginger",
             "many": "dark ginger"
-        },
+    	},
     	"LEAFGREEN": {
 	        "one": "gray",
 	        "many": "dark gray"
@@ -200,6 +200,30 @@
         "SNOWDRIFT": {
             "one": "pale",
             "many": "pale"
+        },
+        "SHADOW": {
+            "one": "black",
+            "many": "black"
+        },
+        "AZALEA": {
+            "one": "white",
+            "many": "white"
+        },
+        "MARIGOLD": {
+            "one": "ginger",
+            "many": "light ginger"
+        },
+        "LEMONADE": {
+            "one": "ginger",
+            "many": "pale ginger"
+        },
+        "LIMECELLO": {
+            "one": "gray",
+            "many": "gray"
+        },
+        "CYMBIDIUM": {
+            "one": "gray",
+            "many": "light gray"
         },
         "singlecolour": "single color",
         "singlecolour_long": "%{color}",
